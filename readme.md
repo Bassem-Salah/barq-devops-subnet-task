@@ -1,1 +1,1 @@
-echo "GitHub"
+readme updated
